@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /criminal/page/
+Disallow: /criminal/?cferror=
+Sitemap: https://myrotvorets.center/wp-sitemap.xml
+
+User-agent: Mail.Ru
+Disallow: /criminal/
+
+User-agent: Amazonbot
+User-agent: AhrefsBot
+User-agent: Bingbot
+User-Agent: BLEXBot
+User-Agent: Buck
+User-agent: CCBot
+User-agent: DataForSeoBot
+User-agent: dotbot
+User-agent: FemtosearchBot
+User-agent: grapeshot
+User-agent: MJ12bot
+User-agent: PetalBot
+User-agent: spbot
+User-agent: VelenPublicWebCrawler
+Disallow: /

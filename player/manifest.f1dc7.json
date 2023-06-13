@@ -1,0 +1,29 @@
+{
+	"short_name": "Myrotvorets.FM",
+	"name": "Радіо «Миротворець»",
+	"lang": "uk",
+	"icons": [
+		{
+			"src": "logo192.88b90.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable any"
+		},
+		{
+			"src": "logo256.ca9a0.png",
+			"type": "image/png",
+			"sizes": "256x256",
+			"purpose": "maskable any"
+		},
+		{
+			"src": "logo512.0a01b.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable any"
+		}
+	],
+	"start_url": "index.html?utm_source=pwa2",
+	"display": "standalone",
+	"theme_color": "#001E3E",
+	"background_color": "#001E3E"
+}
